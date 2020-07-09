@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.ufomelkor.hoacompilerplugin.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ufomelkor.hoacompilerplugin.MyBundle
 
 class MyProjectService(project: Project) {
 
